@@ -1,1 +1,6 @@
 remote_theme: devich/quick@0.0.1
+lang: en-US
+bg_color: light
+theme_color: azure
+title: A. Consoli homepage
+description: this is my webpage
