@@ -27,7 +27,7 @@ author:
   name             : "Antonio Consoli"
   pronouns         : # example: "she/her"  
   bio              : #
-  location         : "Camino del Molino 5, Fuenlabrada"
+  location         : "Madrid, Spain"
   employer         : "Universidad Rey Juan Carlos"
   uri              : # URL
   email            : "antonio.consoli@urjc.es" 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : @electronicslab7079
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
