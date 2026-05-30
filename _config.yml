@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Antonio Consoli personal web page"
 title_separator          : "-"
 name                     : &name "Antonio Consoli"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Antonio Consoli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Unicersidad Rey Juan Carlos"
+  bio              : #
+  location         : "Camino del Molino 5, Fuenlabrada"
+  employer         : "Universidad Rey Juan Carlos"
   uri              : # URL
   email            : "antonio.consoli@urjc.es" 
 
