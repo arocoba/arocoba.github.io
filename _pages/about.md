@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my professional webpage.
 
-I am a Tenured Associate Professor of Electronics at Rey Juan Carlos University ([URJC, Madrid, Spain](https://www.urjc.es/)) and a researcher in photonics and semiconductor lasers affiliated with the Institute of  Madrid Institute of Materials Sciences ([ICMM-CSIC](https://www.icmm.csic.es/)).
+I am a Tenured Associate Professor of Electronics at Rey Juan Carlos University ([URJC](https://www.urjc.es/)) and a researcher in photonics and semiconductor lasers affiliated with the Institute of  Madrid Institute of Materials Sciences ([ICMM-CSIC](https://www.icmm.csic.es/)).
 
-I received a PhD in Telecommunications Engineering from the Technical University of Madrid (UPM) in 2011. My doctoral research focused on ultrashort optical pulse generation and characterization in semiconductor lasers for high-speed optical communication systems.
+I received a PhD in Telecommunications Engineering from the Technical University of Madrid ([UPM](https://www.etsit.upm.es/)) in 2011. My doctoral research focused on ultrashort optical pulse generation and characterization in semiconductor lasers for high-speed optical communication systems. A copy of my Thesis can be downloaded [here](https://oa.upm.es/8972/1/ANTONIO_CONSOLI_BARONE.pdf).
 
 After completing my PhD, I worked as a postdoctoral researcher at UPM on pulsed semiconductor lasers and spaceborne LiDAR applications. In 2014, I joined ICMM-CSIC, where I began working on disordered photonics and random lasers. My research activities at ICMM-CSIC continue to focus on disordered photonics, with a particular emphasis on semiconductor random lasers and their complex dynamics.
 
