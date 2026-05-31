@@ -9,12 +9,18 @@ redirect_from:
 
 Welcome to my professional webpage.
 
-I am a Tenured Associate Professor of Electronics at Rey Juan Carlos University (URJC, Madrid, Spain) and a researcher in photonics and semiconductor lasers affiliated with the Institute of  Madrid Institute of Materials Sciences (ICMM-CSIC).
+I am a Tenured Associate Professor of Electronics at Rey Juan Carlos University ([URJC, Madrid, Spain](https://www.urjc.es/)) and a researcher in photonics and semiconductor lasers affiliated with the Institute of  Madrid Institute of Materials Sciences ([ICMM-CSIC](https://www.icmm.csic.es/)).
+
 I received a PhD in Telecommunications Engineering from the Technical University of Madrid (UPM) in 2011. My doctoral research focused on ultrashort optical pulse generation and characterization in semiconductor lasers for high-speed optical communication systems.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+After completing my PhD, I worked as a postdoctoral researcher at UPM on pulsed semiconductor lasers and spaceborne LiDAR applications. In 2014, I joined ICMM-CSIC, where I began working on disordered photonics and random lasers. My research activities at ICMM-CSIC continue to focus on disordered photonics, with a particular emphasis on semiconductor random lasers and their complex dynamics.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+In parallel with my research career, I joined Rey Juan Carlos University (URJC) in 2017 as a full-time Assistant Professor. Since 2022, I have held the position of Tenured Associate Professor of Electronics at URJC, where I have taught electronics courses across several engineering programs, including Biomedical Engineering, Aerospace Engineering, Telecommunications Engineering, and Telematics Engineering.
+
+My research interests include semiconductor lasers, random lasers, disordered photonics, and complex laser dynamics.
+
+This website provides information about my research, publications, teaching activities, and ongoing projects.
+
 
 A data-driven personal website
 ======
