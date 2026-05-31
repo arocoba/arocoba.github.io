@@ -13,5 +13,10 @@ citation: 'A. Martínez Pacheco, A. Consoli and C. López (2026). &quot;Feedback
 
 ![405 nm SLD device]({{ site.baseurl }}/images/SLD_icon.png)
 
-This work investigates optical feedback suppression in 405 nm superluminescent diodes by engineering scattering structures on the emitting facet...
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work presents a simple post-processing approach for the fabrication of GaN superluminescent diodes (SLDs) based on commercially available 405 nm laser diodes. Instead of relying on conventional SLD fabrication techniques such as tilted waveguides, anti-reflection coatings, or absorber sections, optical feedback is suppressed through the introduction of engineered scattering defects directly into the ridge waveguide by picosecond pulsed laser ablation.
+
+The ablation process creates localized scattering centers that disrupt the cavity feedback responsible for lasing action while preserving the original device geometry and output beam direction. Three different scattering configurations were investigated by varying the position of the ablated defect along the Fabry–Pérot cavity.
+
+The fabricated devices exhibit amplified spontaneous emission with reduced spatial coherence, broadened optical spectra, and suppression of laser oscillation. The best-performing device achieved an output power of 1.8 mW together with a spectral width of 5.9 nm at 405 nm emission wavelength. Beam profiles, divergence angles, spectral characteristics, and speckle contrast measurements were analyzed to evaluate the performance of the modified devices.
+
+The proposed approach demonstrates that controlled scattering can be used as an effective tool for feedback suppression in semiconductor optical cavities, providing a practical and low-complexity route towards the fabrication of visible-wavelength SLDs from standard commercial laser diodes.
