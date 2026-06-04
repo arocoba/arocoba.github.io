@@ -2,7 +2,7 @@
 title: "Controlling the spectral persistence of a random laser"
 collection: publications
 category: manuscripts
-permalink: /publication/rough_FP
+permalink: /publication/persistence-rl
 excerpt: 'Transition from fluctuating to persistent random-laser spectra achieved by controlling cavity length, revealing the role of mode competition and cavity round trips.'
 date: 2024-07-02
 venue: 'Optica'
@@ -12,10 +12,10 @@ citation: 'P. Moronta et al. (2022). &quot;Controlling the spectral persistence 
 
 ![Single-shot spectra from RLs with different cavity lengths]({{ site.baseurl }}/images/persistence_image.jpg)
 
-Semiconductor random lasers combine the optical gain of conventional laser diodes with feedback mechanisms originating from scattering and disorder. Understanding these devices requires numerical models capable of simultaneously describing optical wavelengths at the nanometer scale and cavity lengths extending over hundreds of micrometers, resulting in a challenging multi-scale problem.
+Random lasers are often characterized by strong pulse-to-pulse spectral fluctuations arising from the complex interplay between disorder, scattering, and gain competition. In this work, we demonstrate that the degree of spectral persistence can be effectively controlled by tuning the cavity length of a random laser operating under pulsed excitation.
 
-In this work, we investigate rough Fabry–Perot cavities as a simplified model for semiconductor random laser diodes. Using numerical simulations, we analyze how nanoscale mirror corrugations modify the optical modes, spectral response, and feedback properties of the cavity. Particular attention is paid to the relationship between surface roughness parameters and the resulting changes in cavity behavior.
+Using DNA-based random laser cavities with adjustable length, we observe a clear transition from highly fluctuating spectra to stable and reproducible emission patterns. The key parameter governing this behaviour is the number of cavity round trips that photons can complete during the pump pulse. When only a few round trips occur, successive spectra are largely uncorrelated. In contrast, when photons perform approximately 8–10 round trips while gain is present, mode competition leads to persistent spectral signatures with strong shot-to-shot correlation.
 
-The results provide physical insight into the transition from conventional Fabry–Perot operation towards disorder-dominated optical feedback. Beyond their relevance for semiconductor random lasers, the developed modelling approach offers a useful framework for studying complex photonic cavities where scattering and interference coexist across multiple length scales.
+The experimental observations are supported by coupled-mode-theory simulations, which reproduce the transition from unstable to persistent lasing regimes. The results provide a simple physical picture linking pump duration, cavity length, and spectral stability in random lasers.
 
-This work highlights both the opportunities and the computational challenges associated with the numerical description of disordered semiconductor laser cavities.
+Beyond their fundamental interest, these findings offer a practical route to engineer the degree of complexity and stability of random laser emission, which is relevant for applications in sensing, imaging, and photonic information processing.
