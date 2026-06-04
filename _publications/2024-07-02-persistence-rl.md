@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/test123
 excerpt: 'Transition from fluctuating to persistent random-laser spectra achieved by controlling cavity length, revealing the role of mode competition and cavity round trips.'
-date: 2022-07-02
+date: 2024-07-02
 venue: 'Optica'
 paperurl: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-7-919'
-citation: 'P. Moronta et al. (2022). &quot;Controlling the spectral persistence of a random laser&quot; <i>J. Optica</i>. 11(7).'
+citation: 'P. Moronta et al. (2024). &quot;Controlling the spectral persistence of a random laser&quot; <i>J. Optica</i>. 11(7).'
 ---
 
 ![Single-shot spectra from RLs with different cavity lengths]({{ site.baseurl }}/images/persistence_image.jpg)
