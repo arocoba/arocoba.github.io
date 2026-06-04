@@ -1,0 +1,21 @@
+---
+title: "Controlling the spectral persistence of a random laser"
+collection: publications
+category: manuscripts
+permalink: /publication/rough_FP
+excerpt: 'Numerical study of rough Fabry–Perot cavities, revealing how nanoscale mirror corrugations modify the statistical properties of cavity modes and emission spectra in random laser diodes.'
+date: 2024-07-02
+venue: 'Optica'
+paperurl: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-7-919'
+citation: 'P. Moronta et al. (2022). &quot;Controlling the spectral persistence of a random laser&quot; <i>J. Optica</i>. 11(7).'
+---
+
+![Rough LD FP cavity]({{ site.baseurl }}/images/rough_FP_image.jpg)
+
+Semiconductor random lasers combine the optical gain of conventional laser diodes with feedback mechanisms originating from scattering and disorder. Understanding these devices requires numerical models capable of simultaneously describing optical wavelengths at the nanometer scale and cavity lengths extending over hundreds of micrometers, resulting in a challenging multi-scale problem.
+
+In this work, we investigate rough Fabry–Perot cavities as a simplified model for semiconductor random laser diodes. Using numerical simulations, we analyze how nanoscale mirror corrugations modify the optical modes, spectral response, and feedback properties of the cavity. Particular attention is paid to the relationship between surface roughness parameters and the resulting changes in cavity behavior.
+
+The results provide physical insight into the transition from conventional Fabry–Perot operation towards disorder-dominated optical feedback. Beyond their relevance for semiconductor random lasers, the developed modelling approach offers a useful framework for studying complex photonic cavities where scattering and interference coexist across multiple length scales.
+
+This work highlights both the opportunities and the computational challenges associated with the numerical description of disordered semiconductor laser cavities.
