@@ -19,10 +19,3 @@ Automated Light-Current-Voltage characterization of semiconductor laser diodes u
 Repository:
 
 https://github.com/arocoba/instrument-control
-
-### Future repositories
-
-- Spectral analysis tools
-- Random laser data processing
-- Reservoir computing tools
-- Instrument automation
