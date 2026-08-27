@@ -7,5 +7,6 @@ venue: "EOSAM 2026"
 date: 2026-08-27
 location: "Tampere, Finland"
 ---
-
 Oral presentation in the **Nanophotonics** session, Thursday 27 August 2026, 15:15–15:30.
+## Presentation
+[Download presentation](/files/EOSAM26_talk_FIB.pdf)
