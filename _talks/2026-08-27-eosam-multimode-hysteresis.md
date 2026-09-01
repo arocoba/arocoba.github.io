@@ -6,9 +6,8 @@ permalink: /talks/eosam-2026-multimode-hysteresis
 venue: "EOSAM 2026"
 date: 2026-08-27
 location: "Tampere, Finland"
-excerpt: "Oral presentation in the Nanophotonics session."
+excerpt: "Oral presentation in the **Nanophotonics** session, Thursday 27 August 2026, 15:15–15:30."
 ---
 Oral presentation in the **Nanophotonics** session, Thursday 27 August 2026, 15:15–15:30.
 Presenter: **Antonio Consoli**
-## Presentation
 [Download presentation](/files/EOSAM26_talk_FIB.pdf)
